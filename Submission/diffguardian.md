@@ -36,6 +36,9 @@ https://diffguardian.vercel.app/
 **Presentation / Demo Video Link:**  
 https://drive.google.com/file/d/141_-ZgoLyJterOePAaGIEAGnEQsJqb1P/view?usp=sharing
 
+**npm Package:**  
+https://www.npmjs.com/package/@aryan28/diff-guard
+
 ---
 
 ## Open Source Readiness
